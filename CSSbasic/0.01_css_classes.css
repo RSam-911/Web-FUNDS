@@ -1,0 +1,29 @@
+body {
+
+background-color: Red;
+}
+
+/* .blue is a class on the HTML, and anything in that 
+class is targeted */
+
+
+.blue {
+
+color: #0000FF;
+background-color: #FFcc00;
+}
+
+.yellow {
+
+color: #FFcc00;
+background-color: #0000FF;
+}
+
+
+.bad-pink {
+	color: #ff0066 /* bad pink */
+	background-color: #FFFFFF;
+	font-size: : 12;
+
+
+}

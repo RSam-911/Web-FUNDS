@@ -1,0 +1,25 @@
+#row1{
+
+	background-color: green;
+	padding: 20px;
+	pad
+}
+
+#row2{
+
+	background-color: purple;
+	padding: 40px;
+}
+
+#row3{
+
+	background-color: aqua;
+	padding: 50px;
+}
+
+div {
+    border: 1px solid black;
+    margin:100px 10px 100px 10px;  /* top, right, bottom, left, sets all margins*/
+    background-color: lightblue;
+    padding: 50px 10px 50px 10px; 
+}
