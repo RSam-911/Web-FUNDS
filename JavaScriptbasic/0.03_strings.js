@@ -6,7 +6,7 @@ var pass = "12345678"; //can be used to store names and password
 
 var surveyResponse = "What a great meal"; 
 var comment = "great picture";
-var wallPost = "Happy birthday!";
+var wallPost = "Happy birthday!";   //strings are also arrays, groups of symbols
 var tweet = "kanye is broke ";
 var tweet = "23 > 23" ;                    //EX of strings 
 

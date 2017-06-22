@@ -38,11 +38,13 @@ else {
 var revive = 2;
 var health = 0 ;
 
-if(health === 0){
+if(revive > 0 && health < 0){ //checks for revive at death 
+	console.log("Used revive," + revive + " remaining")
+}
+else if (health < 0 && revive <1) { //death message 
 	console.log("You died");
 }
-else(revive > 0)
-	console.log("Used revive," + revive + "remaining");
+
 
 
 
