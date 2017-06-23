@@ -69,8 +69,9 @@ for(var i=0 ; i < hobbies.length ; i++){
 }
 
 
-
 console.log(splitter+"Nested arrays")
 ///////////////////NESTED ARRAYS //////////////
+
+
 
 
