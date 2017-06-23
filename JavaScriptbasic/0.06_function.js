@@ -103,3 +103,46 @@ function tax(candy_n,price){       //alt name is "method"
 console.log(splitter)
 
 tax(10,1);
+
+
+/////////////////////////////CHALLENGES CONTINUED////////////
+
+function location(city,state){
+	console.log("I am from "+ city +","+ state)
+}
+
+location("Indianapolis"," Indiana")
+
+console.log(splitter)
+
+function bills(water,power,cable,heat){ //parameters
+	var monthly = (water + power + cable + heat)
+	var yearly = (water+power+cable+heat*12)
+	console.log(("You will pay $"+ monthly +" this month, and $"+ yearly + " a year"))
+}
+
+bills(1,2,3,4); //need 4 numbers so parameters are satisfied
+
+console.log(splitter)
+
+
+// function check_odd_eve(number){			//try to use verbs in function names to help ID them 
+// 	if (number / 2 === true) {
+// 		console.log("Number is even ")
+// 	}else {
+// 		console.log("Number is odd")     //non-working attempt at a odd even sensor 
+// 	}
+// }
+
+// number(7);
+
+function check_odd_eve(number) {
+	if (number % 2 < 1 ) {       //stupid modulous you can use < or ===0 either one
+		console.log("Even")  
+	}else{
+		console.log("Odd")
+	}
+}
+check_odd_eve(7);
+
+

@@ -58,6 +58,8 @@ for(var i=0 ; i < 101 ; i += 5){
 
 
 
+
+
 console.log(splitter)
 
 ////////////FIZZ BUZZ////////////
@@ -69,11 +71,48 @@ for(var i=1 ; i <101 ; i++){
 	var FIZZ = "FIZZ"
 	var BUZZ = "BUZZ"
 
-	if ( i += 3 ) {
+	if ( i % 3 == 0  ) {
 		console.log(FIZZ)
-	}else if ( i += 5 ){
+	}else if ( i % 5 == 0 ){
 		console.log(BUZZ)
 	}else {
 		console.log(i)
 	}
 }
+
+
+console.log(splitter)
+
+for(var i=0 ; i<21 ; i+=2){
+	console.log(i)
+}
+
+console.log(splitter)
+
+
+
+////////////////////////////////For loop 
+
+var loading=false
+
+for (var i =0 ; i<101; i++) {
+ if (i < 100) {
+ 	loading=true
+ if (i >100) {
+ 	loading=false
+  }
+ }
+}
+////////////////////////////////While loop 
+while( loading = true ){
+	if (i < 100) {
+	console.log("Loading...")
+	}else if(i > 100){ 
+		console.log("Completed")
+	}
+	else{
+		console.log("ERROR")
+	}
+}
+
+
