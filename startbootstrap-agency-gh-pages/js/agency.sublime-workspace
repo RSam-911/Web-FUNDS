@@ -1,0 +1,275 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"border",
+				"border"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"paddin",
+				"padding-right"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"fol",
+				"folder_1"
+			],
+			[
+				"month",
+				"monthly"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"left",
+				"lefteye"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"in",
+				"input\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Nextech/CODE/FUND/JavaScriptbasic/0.09_obj.js",
+		"/C/Users/Nextech/CODE/FUND/JavaScriptbasic/0.08_arrays.js",
+		"/C/Users/Nextech/CODE/FUND/JavaScriptbasic/0.07_loops.js",
+		"/C/Users/Nextech/CODE/FUND/store/StoreAppStarter/main.css",
+		"/C/Users/Nextech/CODE/FUND/store/StoreAppStarter/index.html",
+		"/C/Users/Nextech/CODE/FUND/JavaScriptbasic/0.06_function.js",
+		"/C/Users/Nextech/Desktop/bootstrap-3.3.7-dist/js/bootstrap.js",
+		"/C/Users/Nextech/Desktop/bootstrap-3.3.7-dist/css/bootstrap.css",
+		"/C/Users/Nextech/CODE/Bootstrap Basics/0.01_intro.html",
+		"/C/Users/Nextech/Desktop/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css.map",
+		"/C/Users/Nextech/Desktop/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css",
+		"/C/Users/Nextech/CODE/store/StoreAppStarter/main.css",
+		"/C/Users/Nextech/CODE/store/StoreAppStarter/index.html",
+		"/C/Users/Nextech/CODE/Bootstrap_basics",
+		"/C/Users/Nextech/CODE/store/StoreAppStarter/img/230x170/firm_hard_fioresardo_230.jpg",
+		"/C/Users/Nextech/CODE/FUND/JavaScriptbasic/0.05_conditionals.js",
+		"/C/Users/Nextech/CODE/FUND/JavaScriptbasic/0.05_conditionals_elevator.js",
+		"/C/Users/Nextech/CODE/FUND/JavaScriptbasic/0.03_strings.js",
+		"/C/Users/Nextech/CODE/FUND/JavaScriptbasic/0.04_booleans.js",
+		"/C/Users/Nextech/CODE/FUND/JavaScriptbasic/0.02_variables.js",
+		"/C/Users/Nextech/AppData/Roaming/Sublime Text 3/Packages/User/Node.sublime-build",
+		"/C/Users/Nextech/CODE/FUND/JavaScriptbasic/0.01_integers.js",
+		"/C/Users/Nextech/CODE/FUND/JavaScriptbasic/0.00_setup.js",
+		"/C/Users/Nextech/CODE/FUND/CSSbasic/0.06_css_creature.css",
+		"/C/Users/Nextech/CODE/FUND/CSSbasic/0.06_css_creature.html",
+		"/C/Users/Nextech/CODE/FUND/CSSbasic/0.05_css_smiley.css",
+		"/C/Users/Nextech/CODE/FUND/CSSbasic/0.05_css_smiley.html",
+		"/C/Users/Nextech/CODE/FUND/CSSbasic/0.04_css_padding.css",
+		"/C/Users/Nextech/CODE/FUND/CSSbasic/0.04_css_padding.html",
+		"/C/Users/Nextech/CODE/FUND/CSSbasic/0.03_css_margins.html",
+		"/C/Users/Nextech/CODE/FUND/CSSbasic/0.03_css_margins.css",
+		"/C/Users/Nextech/CODE/FUND/HTMLbasic/0.09_forms.html",
+		"/C/Users/Nextech/CODE/CSS/0.01_css_classes.css",
+		"/C/Users/Nextech/CODE/CSS/0.01_css_classes.html",
+		"/C/Users/Nextech/CODE/CSS/0.00_css_setup.css",
+		"/C/Users/Nextech/CODE/CSS/0.00_CSS_setup.html",
+		"/C/Users/Nextech/CODE/FUND/0.09_forms.html",
+		"/C/Users/Nextech/CODE/FUND/0.08_divs.html",
+		"/C/Users/Nextech/CODE/FUND/0.06_images.html",
+		"/C/Users/Nextech/CODE/WebFundementals/0.07_tables.html",
+		"/C/Users/Nextech/CODE/WebFundementals/0.06_images.html",
+		"/C/Users/Nextech/Downloads/hackerman.jpg",
+		"/C/Users/Nextech/Desktop/WebFundementals/0.01_intro.html",
+		"/C/Users/Nextech/Desktop/WebFundementals/0.05_challenge1.html",
+		"/C/Users/Nextech/Desktop/WebFundementals/0.03_theDOM.html",
+		"/C/Users/Nextech/Desktop/WebFundementals/0.04_lists.html",
+		"/C/Users/Nextech/Desktop/WebFundementals/0.02_hptags.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/Node.sublime-build",
+	"project": "agency.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\Nextech\\Downloads\\hackerman.jpg"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 241.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

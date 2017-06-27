@@ -1,0 +1,30 @@
+body {
+	background-color: grey; 
+	margin: 30px;
+}
+
+ ul{
+ 	padding: 0;
+ }
+
+ li {
+ 	list-style: none;
+ }
+/* above is all generic formatting */
+
+ #wrapper{
+ 	width: 60%;
+ 	height: 500px;
+ 	margin: 0 auto;
+ 	background-color: #eed;
+ 	text-align: center;
+ 	padding: 0;
+
+ }
+
+ li:nth-child(even){
+ 	background-color: #DDD;
+ }
+ li:nth-child(odd){
+ 	background-color: #EEE;
+ }
